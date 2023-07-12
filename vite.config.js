@@ -9,7 +9,7 @@ export default defineConfig({
       external: ["@fortawesome/react-fontawesome"]
     }
   }, server: {
-    host: '0.0.0.0',
+    host: '192.168.100.253',
   }
 })
 
